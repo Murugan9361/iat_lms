@@ -1,0 +1,9 @@
+{
+  "batchName": "TEST-CRASH-BATCH",
+  "courseId": 1,
+  "trainerId": 4,
+  "batchType": "WEEKDAY",
+  "timing": "Morning",
+  "startDate": "2024-05-01",
+  "endDate": "2024-08-01"
+}
